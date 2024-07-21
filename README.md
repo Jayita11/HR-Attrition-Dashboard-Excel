@@ -36,6 +36,9 @@ The dataset used for this project contains detailed records of employees, includ
 
 - **Attrition by Age Group & Gender**: Combination chart showing attrition rates across different age groups, broken down by gender.
 - **Attrition by Business Travels**: Pie chart illustrating the attrition rates based on travel frequency.
+
+  ![unnamed-36](https://github.com/user-attachments/assets/6f6a9586-dae5-45a5-875d-cd4d95fea0ce)
+
 - **Total Attrition by Department**: Pie chart showing attrition rates for different departments.
 
 ## Dashboard Overview
