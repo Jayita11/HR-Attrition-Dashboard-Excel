@@ -29,6 +29,9 @@ The dataset used for this project contains detailed records of employees, includ
 
 ![Animation_HR_1](https://github.com/user-attachments/assets/8d6d4566-e028-4737-8167-934cf2a5edcf)
 
+![Animation_HR_2](https://github.com/user-attachments/assets/de901b5a-2e3c-4c23-b52e-5a1e101d1adb)
+
+
 
 ## Technical Skills
 - **Data Analysis**: Importing, cleaning, and transforming data using Excel Power Query.
