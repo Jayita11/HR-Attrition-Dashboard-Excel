@@ -70,8 +70,11 @@ The dataset used for this project contains detailed records of employees, includ
 
 ## Dashboard Overview
 
+![unnamed-44](https://github.com/user-attachments/assets/f021f0ea-e885-4c55-a2b2-467409f4c23f)
 
+![Animation_HR_5](https://github.com/user-attachments/assets/e2c66568-8c47-4eac-bea2-03c17cf6e559)
 
+![Animation_HR_6](https://github.com/user-attachments/assets/41bdb591-14bb-4094-8f6e-828acedab3e3)
 
 
 ## Technical Skills
