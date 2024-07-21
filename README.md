@@ -23,6 +23,9 @@ The dataset used for this project contains detailed records of employees, includ
   ![unnamed-24](https://github.com/user-attachments/assets/58d60057-4538-4cd5-918f-580f49ecab88)
 
 - **Total Active Employees**: Indicates the current number of active employees.
+
+  ![unnamed-25](https://github.com/user-attachments/assets/95975b81-0c00-47bf-ab78-3ebd30035da1)
+
 - **Attrition by Job Role**: Bar chart showing the number of employees who left each job role.
 - **Attrition by Education**: Bar chart displaying attrition rates based on the highest education level achieved.
 - **Attrition by Age Group & Gender**: Combination chart showing attrition rates across different age groups, broken down by gender.
