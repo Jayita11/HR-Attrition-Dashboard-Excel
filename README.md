@@ -44,6 +44,9 @@ The dataset used for this project contains detailed records of employees, includ
 
 - **Total Attrition by Department**: Pie chart showing attrition rates for different departments.
 
+  ![unnamed-39](https://github.com/user-attachments/assets/e54cdb85-1f31-4a45-a196-67137a815608)
+
+
 ## Dashboard Overview
 
 
