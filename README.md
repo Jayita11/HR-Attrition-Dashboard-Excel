@@ -31,6 +31,9 @@ The dataset used for this project contains detailed records of employees, includ
   ![unnamed-26](https://github.com/user-attachments/assets/7e121b60-b640-41b5-97d8-b25883d0c17f)
 
 - **Attrition by Education**: Bar chart displaying attrition rates based on the highest education level achieved.
+
+  ![unnamed-27](https://github.com/user-attachments/assets/7ce01d5e-5239-4647-8184-b40244920281)
+
 - **Attrition by Age Group & Gender**: Combination chart showing attrition rates across different age groups, broken down by gender.
 - **Attrition by Business Travels**: Pie chart illustrating the attrition rates based on travel frequency.
 - **Total Attrition by Department**: Pie chart showing attrition rates for different departments.
