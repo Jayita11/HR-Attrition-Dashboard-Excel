@@ -25,6 +25,11 @@ The dataset used for this project contains detailed records of employees, includ
 
 ## Dashboard Overview
 
+![unnamed-42](https://github.com/user-attachments/assets/ff2fde89-23b5-456f-8eeb-a1ea5805daaf)
+
+![Animation_HR_1](https://github.com/user-attachments/assets/8d6d4566-e028-4737-8167-934cf2a5edcf)
+
+
 ## Technical Skills
 - **Data Analysis**: Importing, cleaning, and transforming data using Excel Power Query.
 - **Data Visualization**: Creating charts and graphs in Excel to represent various metrics and trends.
