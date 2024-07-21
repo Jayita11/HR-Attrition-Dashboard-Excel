@@ -51,6 +51,9 @@ The dataset used for this project contains detailed records of employees, includ
   ![unnamed-40](https://github.com/user-attachments/assets/e3d44260-48c6-46bf-9a65-0ae05ea8c0b3)
 
 - **Filters by Departments**: Interactive filters to view attrition data for specific departments like HR, R&D, and Sales.
+
+  ![Animation_HR_4](https://github.com/user-attachments/assets/95ceee38-cf17-4bc8-99ca-086bbc2de83a)
+
 - **Gender Filter**: Allows users to filter the data to view attrition statistics separately for males and females.
 
   ![Animation_HR_3](https://github.com/user-attachments/assets/07a7ce5e-5b45-44c5-85cb-93f205d1a165)
