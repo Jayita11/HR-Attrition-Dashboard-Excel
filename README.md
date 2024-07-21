@@ -55,6 +55,9 @@ The dataset used for this project contains detailed records of employees, includ
 - **Attrition by Performance**: Segregates attrition data by high and low performance categories.
 - **Attrition by Distance**: Displays attrition rates based on the distance employees travel to work, categorized as very far, far, and near-by.
 
+  ![unnamed-41](https://github.com/user-attachments/assets/fd4dd451-e793-40d7-a6a4-2ca63519be0d)
+
+
 
 ## Dashboard Overview
 
