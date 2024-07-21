@@ -15,6 +15,9 @@ The dataset used for this project contains detailed records of employees, includ
 
 ## Dashboard Components
 - **Total Employees**: Displays the total number of employees in the organization.
+
+  ![unnamed-23](https://github.com/user-attachments/assets/5e969e18-3533-49e4-963e-a231ef1dce24)
+
 - **Total Employee Attrition Rate**: Shows the percentage of employees who left the organization.
 - **Total Active Employees**: Indicates the current number of active employees.
 - **Attrition by Job Role**: Bar chart showing the number of employees who left each job role.
