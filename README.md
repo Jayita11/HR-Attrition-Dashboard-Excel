@@ -53,6 +53,9 @@ The dataset used for this project contains detailed records of employees, includ
 - **Filters by Departments**: Interactive filters to view attrition data for specific departments like HR, R&D, and Sales.
 - **Gender Filter**: Allows users to filter the data to view attrition statistics separately for males and females.
 - **Attrition by Performance**: Segregates attrition data by high and low performance categories.
+
+  ![unnamed-42](https://github.com/user-attachments/assets/a4e8198e-1400-40b5-ba92-da6517b38c2f)
+
 - **Attrition by Distance**: Displays attrition rates based on the distance employees travel to work, categorized as very far, far, and near-by.
 
   ![unnamed-41](https://github.com/user-attachments/assets/fd4dd451-e793-40d7-a6a4-2ca63519be0d)
